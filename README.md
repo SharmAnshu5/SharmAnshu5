@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharmAnshu5
 - 👀 I’m interested in ...learning basic core subjects and technologies
-- 🌱 I’m currently learning ...java basis and opps
-- 💞️ I’m looking to collaborate on ...java backend 
+- 🌱 I’m currently learning ...web development from basic to advanced 
+- 💞️ I’m looking to collaborate on web development FRONTEND 
 - 📫 How to reach me ...my mail is anshusharma5.as@gmail.com
 
 <!---
