@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SharmAnshu5
 - 👀 I’m interested in ...learning basic core subjects and technologies
-- 🌱 I’m currently learning ...web development from basic to advanced 
+- 🌱 I’m currently learning ...Pyhon, MySQL, Django,web development from basic to advanced 
 - 💞️ I’m looking to collaborate on web development FRONTEND 
 - 📫 How to reach me ...my mail is anshusharma5.as@gmail.com
 
