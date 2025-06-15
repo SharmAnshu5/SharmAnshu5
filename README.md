@@ -64,7 +64,9 @@ Personal developer portfolio featuring:
 ## 🏆 GitHub Achievements
 
 ![Anshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharmAnshu5&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmAnshu5&layout=compact&theme=tokyonight)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SharmAnshu5&theme=tokyonight&row=1&column=6)
 
 ---
