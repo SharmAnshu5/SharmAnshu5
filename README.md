@@ -1,6 +1,6 @@
 <!-- Banner (You can design and upload a banner image to your repo, then link it below) -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Anshu Sharma Banner" width="100%" />
+  <img src="https://github.com/SharmAnshu5/Resumes/blob/main/Anshu%20Sharma%20(2).png" alt="Anshu Sharma Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Anshu Sharma
