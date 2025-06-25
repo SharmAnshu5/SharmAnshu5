@@ -27,33 +27,6 @@
 
 ---
 
-<h1 align="center">🚧 Projects</h1>
-
-<p align="center">
-  <h3>🔬 <a href="https://github.com/SharmAnshu5/InsuScan-Pro">InsuScan Pro</a></h3>
-  AI-powered medical assistant that:<br>
-  📄 Extracts and summarizes diabetic reports <br>
-  🧪 Predicts diabetes with high accuracy <br>
-  📈 Tracks patient history and visualizes health trends
-</p>
-
-<p align="center">
-  <h3>💬 <a href="https://github.com/SharmAnshu5/AI-Powered-Chatbot">AI-Powered Chatbot</a></h3>
-  React + Flask chatbot featuring:<br>
-  🔐 JWT authentication <br>
-  💬 Smart chat UI <br>
-  🤖 OpenAI-powered intelligent responses
-</p>
-
-<p align="center">
-  <h3>🌐 <a href="https://github.com/SharmAnshu5/Portfolio">Portfolio Website</a></h3>
-  Personal developer portfolio with:<br>
-  ✨ Minimalistic design <br>
-  💼 Project showcases <br>
-  📬 Contact section
-</p>
-
----
 
 <h1 align="center">🚀 Goals & Growth</h1>
 
