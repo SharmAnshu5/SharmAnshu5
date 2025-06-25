@@ -4,17 +4,17 @@
 
 <h1 align="center">💫 About Me</h1>
 
-<p align="center">
+<p align="center"><h2>
   👋 Hi, I'm <strong>Anshu Sharma</strong><br>
   🎓 Final Year Computer Science & AI/ML Engineering Student <br>
   💻 Backend Developer | AI/ML Enthusiast | Open Source Contributor <br>
   🧠 Passionate about Generative AI, Healthcare AI & Intelligent Systems <br>
   🌟 Building tools that solve real-world problems through code and creativity
-</p>
+</h2></p>
 
 ---
-<p align="center">
-## ⚙️ Tech Stack
+<p align="center"><
+<h1>⚙️ Tech Stack </h1><h2>
 
 - **Languages:** Python, JavaScript, C++, SQL  
 - **AI/ML:** Scikit-Learn, XGBoost, NLTK, SHAP, T5, OpenAI API  
@@ -22,12 +22,12 @@
 - **Frontend:** React.js, Streamlit, Tailwind CSS  
 - **Database:** MySQL, SQLite, Firebase  
 - **Tools:** Git, Docker, Postman, VS Code  
-
+</h2>
 </p>
 ---
 <p align="center">
 
-## 🚧 Projects
+<h1>🚧 Projects </h1>
 
 ### 🔬 [InsuScan Pro](https://github.com/SharmAnshu5/InsuScan-Pro)
 > AI-powered medical assistant that:
@@ -65,7 +65,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anshu-sharma-b74a07221"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anshusharma5.as@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a herf="https://sharmanshu5.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-D14836?logo=gmail&logoColor=white" alt="Portfolio" /></a>
+  <a herf="https://sharmanshu5.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-D14836?logo=portfolios&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
