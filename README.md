@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+<p align="center">
 ## ⚙️ Tech Stack
 
 - **Languages:** Python, JavaScript, C++, SQL  
@@ -23,7 +23,9 @@
 - **Database:** MySQL, SQLite, Firebase  
 - **Tools:** Git, Docker, Postman, VS Code  
 
+</p>
 ---
+<p align="center">
 
 ## 🚧 Projects
 
@@ -44,31 +46,16 @@
 - ✨ Minimalistic design  
 - 💼 Project showcases  
 - 📬 Contact section  
-
+</p>
 ---
-
+<p align="center">
+  
 ## 🚀 Goals & Growth
 
 - 🧠 Deepening knowledge in Generative AI and LLMs  
 - 🔍 Contributing to impactful AI-driven open-source projects  
 - 🏥 Enhancing healthcare with intelligent solutions  
 
----
-
-## 📬 Get in Touch
-
-- 📧 Email: [anshusharma.cs.ai@gmail.com](mailto:anshusharma.cs.ai@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sharmanshu](https://linkedin.com/in/sharmanshu)  
-- 🌐 Portfolio: [anshusharma.dev](https://sharmanshu5.github.io/Portfolio/) *(coming soon!)*  
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharmAnshu5&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmAnshu5&layout=compact&theme=tokyonight" alt="Top Languages" /><br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=SharmAnshu5&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -78,6 +65,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anshu-sharma-b74a07221"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anshusharma5.as@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a herf="https://sharmanshu5.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-D14836?logo=gmail&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -114,9 +102,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+
+  
   <img src="https://github-readme-stats.vercel.app/api?username=SharmAnshu5&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/><br>
+
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=SharmAnshu5&theme=radical&hide_border=false"/><br>
+
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmAnshu5&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+  
 </p>
 
 ---
@@ -124,7 +120,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
+  
   <img src="https://github-profile-trophy.vercel.app/?username=SharmAnshu5&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+
+  
 </p>
 
 ---
@@ -142,13 +141,3 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=SharmAnshu5&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=SharmAnshu5&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=SharmAnshu5&icon=0&color=0" alt="Profile Visits">
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
