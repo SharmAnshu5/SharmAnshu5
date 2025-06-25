@@ -4,131 +4,113 @@
 
 <h1 align="center">💫 About Me</h1>
 
-<p align="center"><h2>
+<p align="center">
   👋 Hi, I'm <strong>Anshu Sharma</strong><br>
   🎓 Final Year Computer Science & AI/ML Engineering Student <br>
   💻 Backend Developer | AI/ML Enthusiast | Open Source Contributor <br>
   🧠 Passionate about Generative AI, Healthcare AI & Intelligent Systems <br>
   🌟 Building tools that solve real-world problems through code and creativity
-</h2></p>
-
----
-<p align="center"><
-<h1>⚙️ Tech Stack </h1><h2>
-
-- **Languages:** Python, JavaScript, C++, SQL  
-- **AI/ML:** Scikit-Learn, XGBoost, NLTK, SHAP, T5, OpenAI API  
-- **Backend:** FastAPI, Flask, Node.js  
-- **Frontend:** React.js, Streamlit, Tailwind CSS  
-- **Database:** MySQL, SQLite, Firebase  
-- **Tools:** Git, Docker, Postman, VS Code  
-</h2>
 </p>
+
 ---
+
+<h1 align="center">⚙️ Tech Stack</h1>
+
 <p align="center">
-
-<h1>🚧 Projects </h1>
-
-### 🔬 [InsuScan Pro](https://github.com/SharmAnshu5/InsuScan-Pro)
-> AI-powered medical assistant that:
-- 📄 Extracts and summarizes diabetic reports  
-- 🧪 Predicts diabetes with high accuracy  
-- 📈 Tracks patient history and visualizes health trends  
-
-### 💬 [AI-Powered Chatbot](https://github.com/SharmAnshu5/AI-Powered-Chatbot)
-> React + Flask chatbot featuring:
-- 🔐 JWT authentication  
-- 💬 Smart chat UI  
-- 🤖 OpenAI-powered intelligent responses  
-
-### 🌐 [Portfolio Website](https://github.com/SharmAnshu5/Portfolio)
-> Personal developer portfolio with:
-- ✨ Minimalistic design  
-- 💼 Project showcases  
-- 📬 Contact section  
+  <strong>Languages:</strong> Python, JavaScript, C++, SQL <br>
+  <strong>AI/ML:</strong> Scikit-Learn, XGBoost, NLTK, SHAP, T5, OpenAI API <br>
+  <strong>Backend:</strong> FastAPI, Flask, Node.js <br>
+  <strong>Frontend:</strong> React.js, Streamlit, Tailwind CSS <br>
+  <strong>Database:</strong> MySQL, SQLite, Firebase <br>
+  <strong>Tools:</strong> Git, Docker, Postman, VS Code
 </p>
+
 ---
+
+<h1 align="center">🚧 Projects</h1>
+
 <p align="center">
-  
-## 🚀 Goals & Growth
+  <h3>🔬 <a href="https://github.com/SharmAnshu5/InsuScan-Pro">InsuScan Pro</a></h3>
+  AI-powered medical assistant that:<br>
+  📄 Extracts and summarizes diabetic reports <br>
+  🧪 Predicts diabetes with high accuracy <br>
+  📈 Tracks patient history and visualizes health trends
+</p>
 
-- 🧠 Deepening knowledge in Generative AI and LLMs  
-- 🔍 Contributing to impactful AI-driven open-source projects  
-- 🏥 Enhancing healthcare with intelligent solutions  
+<p align="center">
+  <h3>💬 <a href="https://github.com/SharmAnshu5/AI-Powered-Chatbot">AI-Powered Chatbot</a></h3>
+  React + Flask chatbot featuring:<br>
+  🔐 JWT authentication <br>
+  💬 Smart chat UI <br>
+  🤖 OpenAI-powered intelligent responses
+</p>
 
+<p align="center">
+  <h3>🌐 <a href="https://github.com/SharmAnshu5/Portfolio">Portfolio Website</a></h3>
+  Personal developer portfolio with:<br>
+  ✨ Minimalistic design <br>
+  💼 Project showcases <br>
+  📬 Contact section
 </p>
 
 ---
 
-## 🌐 Socials
+<h1 align="center">🚀 Goals & Growth</h1>
+
+<p align="center">
+  🧠 Deepening knowledge in Generative AI and LLMs <br>
+  🔍 Contributing to impactful AI-driven open-source projects <br>
+  🏥 Enhancing healthcare with intelligent solutions
+</p>
+
+---
+
+<h1 align="center">🌐 Socials</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anshu-sharma-b74a07221"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:anshusharma5.as@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a herf="https://sharmanshu5.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-D14836?logo=portfolios&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sharmanshu5.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?logo=portfolios&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
-## 💻 Full Tech Stack
+<h1 align="center">💻 Full Tech Stack</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
+  <!-- Only showing essential badges here. You can add more as needed -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=SharmAnshu5&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/><br>
-
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SharmAnshu5&theme=radical&hide_border=false"/><br>
-
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=SharmAnshu5&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/><br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SharmAnshu5&theme=radical&hide_border=false"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmAnshu5&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-
-  
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+<h1 align="center">🏆 GitHub Trophies</h1>
 
 <p align="center">
-  
   <img src="https://github-profile-trophy.vercel.app/?username=SharmAnshu5&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-
-  
 </p>
 
 ---
 
-### ✍️ Dev Quote
+<h1 align="center">✍️ Dev Quote</h1>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -136,8 +118,18 @@
 
 ---
 
-### 🔝 Top Contributed Repos
+<h1 align="center">🔝 Top Contributed Repos</h1>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=SharmAnshu5&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in/api?id=SharmAnshu5&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=SharmAnshu5&icon=0&color=0" alt="Profile Visits">
+  </a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
