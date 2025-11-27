@@ -87,9 +87,10 @@
 
 <h1 align="center">📊 GitHub Stats</h1>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SharmAnshu5&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SharmAnshu5&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/><br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SharmAnshu5&theme=radical&hide_border=false"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmAnshu5&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
 ---
@@ -97,9 +98,8 @@
 <h1 align="center">🏆 GitHub Trophies</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SharmAnshu5&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SharmAnshu5&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
-
 ---
 
 <h1 align="center">✍️ Dev Quote</h1>
