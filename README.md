@@ -13,27 +13,6 @@
 </p>
 
 ---
-
-<h1 align="center">⚙️ Tech Stack</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ThreeJS-Dark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI-Dark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker-Dark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git-Dark.svg" width="60"/>
-  
-  <!-- Custom oracle + RPA -->
-  <img src="https://img.icons8.com/color/480/oracle-logo.png" width="60"/>
-  <img src="https://img.icons8.com/fluency/344/robot-2.png" width="60"/>
-</p>
-
-
----
-
 <h1 align="center">💻 Full Tech Stack (Dark Mode Badges)</h1>
 
 <p align="center">
@@ -82,7 +61,7 @@
 <h1 align="center">🧩 Skillicons (Minimal, Clean)</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,threejs,tailwind,vite,nodejs,fastapi,mysql,oracle,firebase,git,github,docker,nginx,selenium,opencv,pytorch,tensorflow,sklearn,express,postman,linux,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,threejs,tailwind,vite,nodejs,fastapi,mysql,firebase,git,github,docker,nginx,selenium,opencv,pytorch,tensorflow,sklearn,express,postman,linux,figma,vscode" />
 </p>
 
 ---
