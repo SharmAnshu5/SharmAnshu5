@@ -21,34 +21,14 @@
   <strong>AI/ML:</strong> Scikit-Learn, XGBoost, NLTK, SHAP, T5, OpenAI API <br>
   <strong>Backend:</strong> FastAPI, Flask, Node.js <br>
   <strong>Frontend:</strong> React.js, Streamlit, Tailwind CSS <br>
-  <strong>Database:</strong> MySQL, SQLite, Firebase <br>
-  <strong>Tools:</strong> Git, Docker, Postman, VS Code
+  <strong>Database:</strong> MySQL, SQLite, Firebase, OracleDB <br>
+  <strong>Automation/RPA:</strong> UiPath, Automation Anywhere, Selenium, Playwright <br>
+  <strong>Tools:</strong> Git, Docker, Postman, VS Code, Linux
 </p>
 
 ---
 
-
-<h1 align="center">🚀 Goals & Growth</h1>
-
-<p align="center">
-  🧠 Deepening knowledge in Generative AI and LLMs <br>
-  🔍 Contributing to impactful AI-driven open-source projects <br>
-  🏥 Enhancing healthcare with intelligent solutions
-</p>
-
----
-
-<h1 align="center">🌐 Socials</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anshu-sharma-b74a07221"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:anshusharma5.as@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://sharmanshu5.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?logo=portfolios&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-<h1 align="center">💻 Full Tech Stack</h1>
+<h1 align="center">💻 Full Tech Stack (Dark Mode Badges)</h1>
 
 <p align="center">
 
@@ -91,6 +71,37 @@
 
 </p>
 
+---
+
+<h1 align="center">🧩 Skillicons (Minimal, Clean)</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,threejs,tailwind,vite,nodejs,fastapi,mysql,oracle,firebase,git,github,docker,nginx,selenium,opencv,pytorch,tensorflow,sklearn,express,postman,linux,figma,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=uipath" />
+</p>
+
+---
+
+<h1 align="center">🚀 Goals & Growth</h1>
+
+<p align="center">
+  🧠 Deepening knowledge in Generative AI and LLMs <br>
+  🔍 Contributing to impactful AI-driven open-source projects <br>
+  🏥 Enhancing healthcare with intelligent solutions
+</p>
+
+---
+
+<h1 align="center">🌐 Socials</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshu-sharma-b74a07221"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anshusharma5.as@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://sharmanshu5.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?logo=web&logoColor=white" /></a>
+</p>
 
 ---
 
