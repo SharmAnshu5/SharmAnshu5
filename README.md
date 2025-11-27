@@ -79,16 +79,7 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,react,threejs,tailwind,vite,nodejs,fastapi,mysql,oracle,firebase,git,github,docker,nginx,selenium,opencv,pytorch,tensorflow,sklearn,express,postman,linux,figma,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,vite,github,python,js,fastapi,git,mysql,docker,tensorflow,figma,postman" height="48" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="48" />
-  <img src="https://img.shields.io/badge/RPA-00C2FF?style=for-the-badge&logo=roboflow&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35"/>
-</p>
-
-
 ---
-
 <h1 align="center">🚀 Goals & Growth</h1>
 
 <p align="center">
