@@ -17,14 +17,20 @@
 <h1 align="center">⚙️ Tech Stack</h1>
 
 <p align="center">
-  <strong>Languages:</strong> Python, JavaScript, C++, SQL <br>
-  <strong>AI/ML:</strong> Scikit-Learn, XGBoost, NLTK, SHAP, T5, OpenAI API <br>
-  <strong>Backend:</strong> FastAPI, Flask, Node.js <br>
-  <strong>Frontend:</strong> React.js, Streamlit, Tailwind CSS <br>
-  <strong>Database:</strong> MySQL, SQLite, Firebase, OracleDB <br>
-  <strong>Automation/RPA:</strong> UiPath, Automation Anywhere, Selenium, Playwright <br>
-  <strong>Tools:</strong> Git, Docker, Postman, VS Code, Linux
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ThreeJS-Dark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI-Dark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker-Dark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git-Dark.svg" width="60"/>
+  
+  <!-- Custom oracle + RPA -->
+  <img src="https://img.icons8.com/color/480/oracle-logo.png" width="60"/>
+  <img src="https://img.icons8.com/fluency/344/robot-2.png" width="60"/>
 </p>
+
 
 ---
 
