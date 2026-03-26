@@ -6,9 +6,8 @@
 
 <p align="center">
   👋 Hi, I'm <strong>Anshu Sharma</strong><br>
-  🎓 Final Year Computer Science & AI/ML Engineering Student <br>
   💻 Backend Developer | AI/ML Enthusiast | Open Source Contributor <br>
-  🧠 Passionate about Generative AI, Healthcare AI & Intelligent Systems <br>
+  🧠 Generative AI, Automation & Intelligent Systems <br>
   🌟 Building tools that solve real-world problems through code and creativity
 </p>
 
