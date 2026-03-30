@@ -10,30 +10,30 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">Profile</h2>
 
 <p align="center">
-  I am a Software Developer working in the Technical Team at <strong>Amar Ujala</strong>, specializing in 
-  automation systems, OCR pipelines, and AI-driven solutions.<br><br>
+  Software Developer in the Technical Team at <strong>Amar Ujala</strong>, focused on building 
+  scalable automation systems, OCR pipelines, and backend architectures.<br><br>
 
-  I independently designed and deployed a full-scale RPA automation system to streamline 
-  business workflows, significantly reducing manual effort and improving operational efficiency.<br><br>
+  Designed and deployed a production-grade RPA automation system independently, 
+  optimising high-volume workflows and reducing manual intervention significantly.<br><br>
 
-  Currently, I am building a high-accuracy OCR pipeline capable of handling 2000+ document formats, 
-  focusing on intelligent data extraction, mapping, and database integration using scalable architectures.
+  Currently developing a high-accuracy OCR pipeline for large-scale document processing, 
+  targeting 2000+ document formats with structured extraction, validation, and database integration.
 </p>
 
 ---
 
-<h2 align="center">Core Expertise</h2>
+<h2 align="center">Core Areas</h2>
 
 <p align="center">
-  Automation (RPA) • OCR Systems • Machine Learning • Backend Engineering • Workflow Optimization
+  Automation Engineering (RPA) • OCR & Document Intelligence • Backend Systems • Machine Learning • Workflow Optimization
 </p>
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Technology Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,react,tailwind,vite,nodejs,fastapi,mysql,firebase,git,github,docker,nginx,selenium,opencv,pytorch,tensorflow,sklearn,linux,vscode" />
@@ -41,20 +41,22 @@
 
 ---
 
-<h2 align="center">Highlighted Work</h2>
+<h2 align="center">Selected Work</h2>
 
 <p align="center">
   <strong>RPA Automation System</strong><br>
-  Designed and deployed an end-to-end automation pipeline to eliminate repetitive manual processes.<br>
-  Built using Python, Selenium, and backend integrations with secure credential handling.<br><br>
+  Architected and implemented an end-to-end automation framework for business workflows.<br>
+  Built using Python and browser automation tools with secure credential handling and scheduling.<br>
+  Improved processing efficiency and reduced manual dependency across operations.<br><br>
 
-  <strong>OCR-Based RO Scanner (In Progress)</strong><br>
-  Developing a high-accuracy OCR engine using Tesseract, Pillow, and PDF processing tools.<br>
-  Supports 2000+ document formats with structured data extraction, validation, and DB storage.<br>
-  Focused on preprocessing optimization and accuracy improvements.<br><br>
+  <strong>OCR-Based RO Scanner (Active Development)</strong><br>
+  Building a scalable OCR pipeline using Tesseract, Pillow, and PDF parsing tools.<br>
+  Designed to process 2000+ document formats with structured data extraction and mapping.<br>
+  Integrated with database systems for persistent storage and downstream automation.<br>
+  Current focus: preprocessing optimisation, accuracy tuning, and format generalisation.<br><br>
 
   <strong>InsuScan Pro</strong><br>
-  AI-based diabetes prediction and report analysis system using XGBoost and FastAPI.<br><br>
+  Machine learning system for diabetes prediction and medical report summarisation.<br><br>
 
   <strong>Sea Beneath</strong><br>
   Deep learning-based underwater object detection using YOLO and OpenCV.
@@ -62,15 +64,28 @@
 
 ---
 
-<h2 align="center">Automation & RPA Stack</h2>
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
-  Python • Selenium • Playwright • Workflow Design • Scheduling • Data Pipelines • Oracle DB
+  Improving OCR accuracy across heterogeneous document formats<br>
+  Building robust preprocessing pipelines for noisy and unstructured inputs<br>
+  Designing scalable data extraction and validation systems<br><br>
+
+  Open to suggestions, feedback, and collaboration on improving OCR performance, 
+  model integration, and pipeline architecture.
 </p>
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">Automation Stack</h2>
+
+<p align="center">
+  Python • Selenium • Playwright • Workflow Design • Scheduling Systems • Data Pipelines • Oracle DB
+</p>
+
+---
+
+<h2 align="center">GitHub Metrics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SharmAnshu5&theme=tokyonight&hide_border=true&show_icons=true" />
@@ -82,7 +97,7 @@
 
 ---
 
-<h2 align="center">GitHub Achievements</h2>
+<h2 align="center">Achievements</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SharmAnshu5&theme=algolia&no-frame=true&row=1&column=6" />
@@ -90,7 +105,7 @@
 
 ---
 
-<h2 align="center">Connect</h2>
+<h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anshu-sharma-b74a07221">
