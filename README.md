@@ -81,28 +81,37 @@ RO_DATA/
 ├─ error/
 ├─ logs/
 
-<!-- ============================ WORKFLOW ============================ -->
-🔄 System Workflow
-PDF Input 
-   ↓
-Identifier
-   ↓
-Parser / OCR Engine
-   ↓
-Field Mapping
-   ↓
-Validation Layer
-   ↓
-Database Insert
-   ↓
-Logging & Monitoring
-   ↓
-Notification System
-
 ```
 
+<!-- ============================ SYSTEM DESIGN ============================ -->
+
+## 🧠 System Design Overview
+
+```text
+Event-Driven OCR Pipeline Architecture
+
+Watcher Layer (File System Monitor)
+        ↓
+Document Classification (Identifier)
+        ↓
+Dynamic Routing Engine
+        ↓
+Parser Layer (SAMVAD / DAVP / OCR)
+        ↓
+Schema Mapping Engine
+        ↓
+Validation Layer (Business + DB)
+        ↓
+Oracle DB Insert
+        ↓
+Logging + Failure Handling
+        ↓
+Email Notification System
+```
+
+
 <!-- ============================ OCR ============================ -->
-🔍 OCR System (Active Development)
+##🔍 OCR System (Active Development)
 
 A dedicated OCR pipeline for extracting structured data from complex documents.
 
@@ -120,16 +129,76 @@ Handling edge-case document formats
 This system is actively evolving. Suggestions and improvements are welcome.
 
 <!-- ============================ TECH STACK ============================ -->
-🧰 Tech Stack
+##🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,fastapi,mysql,git,github,docker,linux,vscode" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Tesseract-OCR-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Pillow-Processing-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/PyMuPDF-PDF-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/OracleDB-Database-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/RPA-Automation-203a43?style=flat-square"/> </p>
+
+
 <!-- ============================ STATS ============================ -->
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SharmAnshu5&show_icons=true&theme=dark&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmAnshu5&layout=compact&theme=dark&hide_border=true" width="48%"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=SharmAnshu5&theme=dark&hide_border=true"/> </p>
+
+
+<!-- ============================ STATS ============================ -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SharmAnshu5&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmAnshu5&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SharmAnshu5&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
 <!-- ============================ ACHIEVEMENTS ============================ -->
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SharmAnshu5&theme=darkhub&no-frame=true&row=1&column=6"/> </p>
+
+## 🏆 Engineering Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Automation-Zero%20Manual%20Intervention-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR-2000%2B%20Document%20Formats-203a43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System-Production%20Deployed-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Scalable%20Pipelines-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-OracleDB%20Integration-203a43?style=for-the-badge"/>
+
+</div>
+
 <!-- ============================ CONTACT ============================ -->
-📬 Contact
-Email: anshusharma5.as@gmail.com
-LinkedIn: https://www.linkedin.com/in/anshu-sharma-b74a07221
-<!-- ============================ FOOTER ============================ --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=200&section=header&text=Systems%20over%20manual%20effort.%20Automation%20over%20repetition.&fontSize=18&fontColor=E8D5A3&animation=fadeIn&fontAlignY=45"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/> </div> ```
+
+## 📬 Contact
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Open+to+collaborations+and+engineering+discussions;Building+scalable+systems+and+OCR+pipelines;Feel+free+to+connect+across+platforms)](https://git.io/typing-svg)
+
+<br/><br/>
+
+<a href="mailto:anshusharma5.as@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anshu-sharma-b74a07221">
+  <img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sharmanshu__/?next=">
+  <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-203a43?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
+
+
+<!-- ============================ FOOTER ============================ --> 
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=200&section=header&text=Systems%20over%20manual%20effort.%20Automation%20over%20repetition.&fontSize=18&fontColor=E8D5A3&animation=fadeIn&fontAlignY=45"/>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/> </div> 
