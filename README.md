@@ -61,11 +61,8 @@ A fully automated backend system for processing release order (RO) documents at 
 - Automated failure handling with notification system  
 
 <!-- ============================ TECH STACK ============================ -->
-##🧰 Tech Stack
+## 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,fastapi,mysql,git,github,docker,linux,vscode" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Tesseract-OCR-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Pillow-Processing-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/PyMuPDF-PDF-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/OracleDB-Database-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/RPA-Automation-203a43?style=flat-square"/> </p>
-
-
-<!-- ============================ STATS ============================ -->
 
 
 <!-- ============================ STATS ============================ -->
