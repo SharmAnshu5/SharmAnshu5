@@ -112,7 +112,7 @@ A fully automated backend system for processing release order (RO) documents at 
   <img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://sharmanshu5.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
